@@ -15,8 +15,10 @@ The ZetaAI landing page is deployed by GitHub Actions
   connection to `139.99.88.23`; no Cloudflare tunnel involved in the deploy
   step).
 - Webroot: `/var/www/zeta.dream-team.works` (owned by `deploy:deploy`).
-- nginx serves the webroot on port 80; the server's Cloudflare Tunnel
-  (`ovh-server`) routes `zeta.dream-team.works` to `http://localhost:80`.
+- The site has its **own nginx vhost on a private port** (`127.0.0.1:8081`), not
+  on port 80 — port 80 stays exclusively for the pre-existing sites. The
+  server's Cloudflare Tunnel (`ovh-server`) routes `zeta.dream-team.works` to
+  `http://localhost:8081`.
 - Only `index.html` and `assets/` are deployed; repo docs, `RECON/` and the
   other markdown files stay out of the web root.
 
@@ -57,7 +59,8 @@ rsync -az --delete --chmod=D755,F644 \
 | --- | --- |
 | Web root | `/var/www/zeta.dream-team.works` (owned by `deploy:deploy`) |
 | nginx vhost | `/etc/nginx/sites-available/zeta.dream-team.works.conf` |
-| Tunnel ingress | `zeta.dream-team.works` → `http://localhost:80` (tunnel `ovh-server`) |
+| Tunnel ingress | `zeta.dream-team.works` → `http://localhost:8081` (tunnel `ovh-server`) |
+| nginx origin | `127.0.0.1:8081` only (private; port 80 is untouched) |
 | DNS | CNAME `zeta` → `bd0efb4d-a596-4c6f-9997-7276f4980f0b.cfargotunnel.com` (proxied) |
 | SSH (CI) | `deploy@139.99.88.23:22`, key-only |
 | SSH (admin) | `ubuntu@139.99.88.23` (key-only, sudo) |
