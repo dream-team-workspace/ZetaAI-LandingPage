@@ -1,0 +1,2451 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:8123/",
+  "capturedAt": "2026-10-11T18:24:41.230Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "http://127.0.0.1:8123/",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "http://127.0.0.1:8123/",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "http://127.0.0.1:8123/",
+      "readyState": "complete"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots/clone-1440.png",
+      "signals": {
+        "href": "http://127.0.0.1:8123/",
+        "title": "ZetaAI — the offline-first AI companion",
+        "lang": "en",
+        "bodyTextChars": 1988,
+        "scrollHeight": 3155,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "Offline AI Companion"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Offline AI Companion"
+          },
+          {
+            "tag": "h2",
+            "text": "ZetaAI on every device"
+          },
+          {
+            "tag": "h2",
+            "text": "Built to live on your device"
+          },
+          {
+            "tag": "h3",
+            "text": "Runs offline"
+          },
+          {
+            "tag": "h3",
+            "text": "Interactive avatar"
+          },
+          {
+            "tag": "h3",
+            "text": "Private by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Every platform"
+          },
+          {
+            "tag": "h2",
+            "text": "Three steps, zero setup"
+          },
+          {
+            "tag": "h3",
+            "text": "Install it"
+          },
+          {
+            "tag": "h3",
+            "text": "Meet your avatar"
+          },
+          {
+            "tag": "h3",
+            "text": "Stay offline"
+          },
+          {
+            "tag": "h2",
+            "text": "Get ZetaAI"
+          }
+        ],
+        "metaDescription": "ZetaAI is an offline-first AI assistant with an interactive avatar. Chat, voice and your companion run entirely on your own device. No cloud, no accounts.",
+        "counts": {
+          "links": 19,
+          "images": 2,
+          "video": 0,
+          "canvas": 0,
+          "sections": 18,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 19,
+          "scripts": 0,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [],
+        "stylesheets": [
+          "http://127.0.0.1:8123/assets/fonts/fonts.css"
+        ],
+        "sections": [
+          {
+            "tag": "main",
+            "id": "main",
+            "className": "",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI Offline AI Companion ★ Official release ★ On-device AI assistant ★ ZetaAI v1.0 ★ Start Chat Create avatar ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. N",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1425,
+              "height": 2705
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "hero",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI Offline AI Companion ★ Official release ★ On-device AI assistant ★ ZetaAI v1.0 ★ Start Chat Create avatar ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. N",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1425,
+              "height": 972
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "header",
+            "id": "",
+            "className": "plate-head",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI",
+            "rect": {
+              "x": 74,
+              "y": 68,
+              "width": 1278,
+              "height": 55
+            },
+            "style": {
+              "display": "grid",
+              "position": "absolute",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "nav",
+            "text": "Guide FAQ Docs Discord GitHub",
+            "rect": {
+              "x": 518,
+              "y": 71,
+              "width": 390,
+              "height": 55
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "app-card",
+            "text": "ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. No cloud, no account, no waiting on a server — on macOS, Windows, Linux, iOS and Android. Download",
+            "rect": {
+              "x": 709,
+              "y": 667,
+              "width": 606,
+              "height": 226
+            },
+            "style": {
+              "display": "block",
+              "position": "absolute",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "features",
+            "className": "section",
+            "text": "Why ZetaAI Built to live on your device ZetaAI does the work locally. Nothing is sent away, nothing waits on a connection, and your companion keeps its personality between sessions. Runs offline Chat, voice and avatar all run locally. Pull ",
+            "rect": {
+              "x": 0,
+              "y": 1026,
+              "width": 1425,
+              "height": 688
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Runs offline Chat, voice and avatar all run locally. Pull the network cable and ZetaAI keeps working.",
+            "rect": {
+              "x": 116,
+              "y": 1372,
+              "width": 286,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Interactive avatar An animated companion that reacts, emotes and talks with you while you work.",
+            "rect": {
+              "x": 418,
+              "y": 1372,
+              "width": 286,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Private by default No cloud sync, no accounts, no telemetry. Conversations never leave the machine.",
+            "rect": {
+              "x": 721,
+              "y": 1372,
+              "width": 286,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Every platform One companion across macOS, Windows, Linux, iOS and Android.",
+            "rect": {
+              "x": 1023,
+              "y": 1372,
+              "width": 286,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "docs",
+            "className": "section",
+            "text": "Getting started Three steps, zero setup 01 Install it One download for your platform. Models ship with the app, so there is nothing else to fetch. 02 Meet your avatar Pick a look, tune the personality, and give your companion a voice you li",
+            "rect": {
+              "x": 0,
+              "y": 1715,
+              "width": 1425,
+              "height": 508
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "01 Install it One download for your platform. Models ship with the app, so there is nothing else to fetch.",
+            "rect": {
+              "x": 116,
+              "y": 1896,
+              "width": 382,
+              "height": 191
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "02 Meet your avatar Pick a look, tune the personality, and give your companion a voice you like.",
+            "rect": {
+              "x": 522,
+              "y": 1896,
+              "width": 382,
+              "height": 191
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "03 Stay offline Talk, sketch ideas and get help all day. Your data stays on your device.",
+            "rect": {
+              "x": 927,
+              "y": 1896,
+              "width": 382,
+              "height": 191
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "download",
+            "className": "section",
+            "text": "Get ZetaAI Free to download, offline by design, and yours for as long as you keep it on your machine. Download ZetaAI Read the docs No account · No subscription · Runs fully offline Size ≈ 1.2 GB, models included Requires 8 GB RAM · no inte",
+            "rect": {
+              "x": 0,
+              "y": 2223,
+              "width": 1425,
+              "height": 482
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "community",
+            "className": "site-foot",
+            "text": "ZetaAI An offline-first AI assistant with an interactive avatar. Private, local and always available. Product Guide FAQ Docs Download Community Discord GitHub Changelog",
+            "rect": {
+              "x": 60,
+              "y": 2705,
+              "width": 1305,
+              "height": 364
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Product Guide FAQ Docs Download",
+            "rect": {
+              "x": 594,
+              "y": 2762,
+              "width": 340,
+              "height": 243
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Community Discord GitHub Changelog",
+            "rect": {
+              "x": 965,
+              "y": 2762,
+              "width": 340,
+              "height": 243
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--bg",
+            "#C1C0BC"
+          ],
+          [
+            "--surface",
+            "#E6E4D5"
+          ],
+          [
+            "--fg",
+            "#0A0A0A"
+          ],
+          [
+            "--muted",
+            "#6B6960"
+          ],
+          [
+            "--border",
+            "#CFCDBE"
+          ],
+          [
+            "--accent",
+            "#FAFE5F"
+          ],
+          [
+            "--paper",
+            "#FFFFFF"
+          ],
+          [
+            "--display",
+            "'Anton', 'Arial Narrow', 'Haettenschweiler', system-ui, sans-serif"
+          ],
+          [
+            "--body",
+            "'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          ],
+          [
+            "--mono",
+            "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+          ],
+          [
+            "--r-plate",
+            "2rem"
+          ],
+          [
+            "--r-inner",
+            "1.35rem"
+          ],
+          [
+            "--r-card",
+            "1.1rem"
+          ],
+          [
+            "--pad-x",
+            "clamp(1rem, 5vw, 3.75rem)"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--bg",
+            "#C1C0BC"
+          ],
+          [
+            "--surface",
+            "#E6E4D5"
+          ],
+          [
+            "--fg",
+            "#0A0A0A"
+          ],
+          [
+            "--muted",
+            "#6B6960"
+          ],
+          [
+            "--border",
+            "#CFCDBE"
+          ],
+          [
+            "--accent",
+            "#FAFE5F"
+          ],
+          [
+            "--paper",
+            "#FFFFFF"
+          ],
+          [
+            "--display",
+            "'Anton', 'Arial Narrow', 'Haettenschweiler', system-ui, sans-serif"
+          ],
+          [
+            "--body",
+            "'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          ],
+          [
+            "--mono",
+            "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+          ],
+          [
+            "--r-plate",
+            "2rem"
+          ],
+          [
+            "--r-inner",
+            "1.35rem"
+          ],
+          [
+            "--r-card",
+            "1.1rem"
+          ],
+          [
+            "--pad-x",
+            "clamp(1rem, 5vw, 3.75rem)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(193, 192, 188)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgba(10, 10, 10, 0.14)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Download ZetaAI",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Read the docs",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(230, 228, 213)",
+              "borderColor": "rgba(230, 228, 213, 0.4)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Anton",
+          "Anton",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter"
+        ],
+        "fontFaces": [
+          {
+            "family": "Anton",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "anton-400-normal-cfa139.woff2"
+            ],
+            "cssText": "@font-face { font-family: Anton; font-style: normal; font-weight: 400; font-display: swap; src: url(\"anton-400-normal-cfa139.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Anton",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "anton-400-normal-a6f395.woff2"
+            ],
+            "cssText": "@font-face { font-family: Anton; font-style: normal; font-weight: 400; font-display: swap; src: url(\"anton-400-normal-a6f395.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "inter-400-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"inter-400-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "inter-400-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"inter-400-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "inter-500-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"inter-500-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "inter-500-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"inter-500-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "inter-600-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"inter-600-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "inter-600-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"inter-600-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "inter-700-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(\"inter-700-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "inter-700-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(\"inter-700-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "800",
+            "style": "normal",
+            "srcUrls": [
+              "inter-800-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 800; font-display: swap; src: url(\"inter-800-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "800",
+            "style": "normal",
+            "srcUrls": [
+              "inter-800-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 800; font-display: swap; src: url(\"inter-800-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:8123/assets/avatar-portrait.jpg",
+            "http://127.0.0.1:8123/assets/avatar-duo.jpg",
+            "http://127.0.0.1:8123/favicon.ico"
+          ],
+          "fonts": [
+            "http://127.0.0.1:8123/assets/fonts/inter-400-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-600-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/anton-400-normal-a6f395.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-700-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-800-normal-567244.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:8123/assets/avatar-portrait.jpg",
+            "srcset": "",
+            "alt": "Illustrated ZetaAI avatar: a character with long red hair and goggles.",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:8123/assets/avatar-duo.jpg",
+            "srcset": "",
+            "alt": "Two illustrated characters talking in the street, showing the interactive avatar feature.",
+            "width": 452,
+            "height": 300
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots/clone-768.png",
+      "signals": {
+        "href": "http://127.0.0.1:8123/",
+        "title": "ZetaAI — the offline-first AI companion",
+        "lang": "en",
+        "bodyTextChars": 1977,
+        "scrollHeight": 4485,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "Offline AI Companion"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Offline AI Companion"
+          },
+          {
+            "tag": "h2",
+            "text": "ZetaAI on every device"
+          },
+          {
+            "tag": "h2",
+            "text": "Built to live on your device"
+          },
+          {
+            "tag": "h3",
+            "text": "Runs offline"
+          },
+          {
+            "tag": "h3",
+            "text": "Interactive avatar"
+          },
+          {
+            "tag": "h3",
+            "text": "Private by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Every platform"
+          },
+          {
+            "tag": "h2",
+            "text": "Three steps, zero setup"
+          },
+          {
+            "tag": "h3",
+            "text": "Install it"
+          },
+          {
+            "tag": "h3",
+            "text": "Meet your avatar"
+          },
+          {
+            "tag": "h3",
+            "text": "Stay offline"
+          },
+          {
+            "tag": "h2",
+            "text": "Get ZetaAI"
+          }
+        ],
+        "metaDescription": "ZetaAI is an offline-first AI assistant with an interactive avatar. Chat, voice and your companion run entirely on your own device. No cloud, no accounts.",
+        "counts": {
+          "links": 19,
+          "images": 2,
+          "video": 0,
+          "canvas": 0,
+          "sections": 18,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 19,
+          "scripts": 0,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [],
+        "stylesheets": [
+          "http://127.0.0.1:8123/assets/fonts/fonts.css"
+        ],
+        "sections": [
+          {
+            "tag": "main",
+            "id": "main",
+            "className": "",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI Offline AI Companion ★ Official release ★ On-device AI assistant ★ ZetaAI v1.0 ★ Start Chat Create avatar ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. N",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 753,
+              "height": 3910
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "hero",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI Offline AI Companion ★ Official release ★ On-device AI assistant ★ ZetaAI v1.0 ★ Start Chat Create avatar ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. N",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 753,
+              "height": 1673
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "header",
+            "id": "",
+            "className": "plate-head",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI",
+            "rect": {
+              "x": 48,
+              "y": 40,
+              "width": 657,
+              "height": 131
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(10, 10, 10)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "nav",
+            "text": "Guide FAQ Docs Discord GitHub",
+            "rect": {
+              "x": 64,
+              "y": 112,
+              "width": 625,
+              "height": 45
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "app-card",
+            "text": "ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. No cloud, no account, no waiting on a server — on macOS, Windows, Linux, iOS and Android. Download",
+            "rect": {
+              "x": 66,
+              "y": 1425,
+              "width": 622,
+              "height": 196
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "features",
+            "className": "section",
+            "text": "Why ZetaAI Built to live on your device ZetaAI does the work locally. Nothing is sent away, nothing waits on a connection, and your companion keeps its personality between sessions. Runs offline Chat, voice and avatar all run locally. Pull ",
+            "rect": {
+              "x": 0,
+              "y": 1728,
+              "width": 753,
+              "height": 784
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Runs offline Chat, voice and avatar all run locally. Pull the network cable and ZetaAI keeps working.",
+            "rect": {
+              "x": 73,
+              "y": 2002,
+              "width": 296,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Interactive avatar An animated companion that reacts, emotes and talks with you while you work.",
+            "rect": {
+              "x": 385,
+              "y": 2002,
+              "width": 296,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Private by default No cloud sync, no accounts, no telemetry. Conversations never leave the machine.",
+            "rect": {
+              "x": 73,
+              "y": 2225,
+              "width": 296,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Every platform One companion across macOS, Windows, Linux, iOS and Android.",
+            "rect": {
+              "x": 385,
+              "y": 2225,
+              "width": 296,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "docs",
+            "className": "section",
+            "text": "Getting started Three steps, zero setup 01 Install it One download for your platform. Models ship with the app, so there is nothing else to fetch. 02 Meet your avatar Pick a look, tune the personality, and give your companion a voice you li",
+            "rect": {
+              "x": 0,
+              "y": 2512,
+              "width": 753,
+              "height": 751
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "01 Install it One download for your platform. Models ship with the app, so there is nothing else to fetch.",
+            "rect": {
+              "x": 73,
+              "y": 2656,
+              "width": 607,
+              "height": 173
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "02 Meet your avatar Pick a look, tune the personality, and give your companion a voice you like.",
+            "rect": {
+              "x": 73,
+              "y": 2857,
+              "width": 607,
+              "height": 149
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "03 Stay offline Talk, sketch ideas and get help all day. Your data stays on your device.",
+            "rect": {
+              "x": 73,
+              "y": 3034,
+              "width": 607,
+              "height": 149
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "download",
+            "className": "section",
+            "text": "Get ZetaAI Free to download, offline by design, and yours for as long as you keep it on your machine. Download ZetaAI Read the docs No account · No subscription · Runs fully offline Size ≈ 1.2 GB, models included Requires 8 GB RAM · no inte",
+            "rect": {
+              "x": 0,
+              "y": 3263,
+              "width": 753,
+              "height": 647
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "community",
+            "className": "site-foot",
+            "text": "ZetaAI An offline-first AI assistant with an interactive avatar. Private, local and always available. Product Guide FAQ Docs Download Community Discord GitHub Changelog",
+            "rect": {
+              "x": 38,
+              "y": 3910,
+              "width": 676,
+              "height": 488
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Product Guide FAQ Docs Download",
+            "rect": {
+              "x": 77,
+              "y": 4116,
+              "width": 284,
+              "height": 243
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Community Discord GitHub Changelog",
+            "rect": {
+              "x": 393,
+              "y": 4116,
+              "width": 284,
+              "height": 243
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--bg",
+            "#C1C0BC"
+          ],
+          [
+            "--surface",
+            "#E6E4D5"
+          ],
+          [
+            "--fg",
+            "#0A0A0A"
+          ],
+          [
+            "--muted",
+            "#6B6960"
+          ],
+          [
+            "--border",
+            "#CFCDBE"
+          ],
+          [
+            "--accent",
+            "#FAFE5F"
+          ],
+          [
+            "--paper",
+            "#FFFFFF"
+          ],
+          [
+            "--display",
+            "'Anton', 'Arial Narrow', 'Haettenschweiler', system-ui, sans-serif"
+          ],
+          [
+            "--body",
+            "'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          ],
+          [
+            "--mono",
+            "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+          ],
+          [
+            "--r-plate",
+            "2rem"
+          ],
+          [
+            "--r-inner",
+            "1.35rem"
+          ],
+          [
+            "--r-card",
+            "1.1rem"
+          ],
+          [
+            "--pad-x",
+            "clamp(1rem, 5vw, 3.75rem)"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--bg",
+            "#C1C0BC"
+          ],
+          [
+            "--surface",
+            "#E6E4D5"
+          ],
+          [
+            "--fg",
+            "#0A0A0A"
+          ],
+          [
+            "--muted",
+            "#6B6960"
+          ],
+          [
+            "--border",
+            "#CFCDBE"
+          ],
+          [
+            "--accent",
+            "#FAFE5F"
+          ],
+          [
+            "--paper",
+            "#FFFFFF"
+          ],
+          [
+            "--display",
+            "'Anton', 'Arial Narrow', 'Haettenschweiler', system-ui, sans-serif"
+          ],
+          [
+            "--body",
+            "'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          ],
+          [
+            "--mono",
+            "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+          ],
+          [
+            "--r-plate",
+            "2rem"
+          ],
+          [
+            "--r-inner",
+            "1.35rem"
+          ],
+          [
+            "--r-card",
+            "1.1rem"
+          ],
+          [
+            "--pad-x",
+            "clamp(1rem, 5vw, 3.75rem)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(193, 192, 188)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": {
+            "backgroundColor": "rgb(10, 10, 10)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgba(10, 10, 10, 0.14)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Download ZetaAI",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Read the docs",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(230, 228, 213)",
+              "borderColor": "rgba(230, 228, 213, 0.4)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Anton",
+          "Anton",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter"
+        ],
+        "fontFaces": [
+          {
+            "family": "Anton",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "anton-400-normal-cfa139.woff2"
+            ],
+            "cssText": "@font-face { font-family: Anton; font-style: normal; font-weight: 400; font-display: swap; src: url(\"anton-400-normal-cfa139.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Anton",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "anton-400-normal-a6f395.woff2"
+            ],
+            "cssText": "@font-face { font-family: Anton; font-style: normal; font-weight: 400; font-display: swap; src: url(\"anton-400-normal-a6f395.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "inter-400-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"inter-400-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "inter-400-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"inter-400-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "inter-500-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"inter-500-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "inter-500-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"inter-500-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "inter-600-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"inter-600-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "inter-600-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"inter-600-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "inter-700-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(\"inter-700-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "inter-700-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(\"inter-700-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "800",
+            "style": "normal",
+            "srcUrls": [
+              "inter-800-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 800; font-display: swap; src: url(\"inter-800-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "800",
+            "style": "normal",
+            "srcUrls": [
+              "inter-800-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 800; font-display: swap; src: url(\"inter-800-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:8123/assets/avatar-portrait.jpg",
+            "http://127.0.0.1:8123/assets/avatar-duo.jpg"
+          ],
+          "fonts": [
+            "http://127.0.0.1:8123/assets/fonts/inter-400-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-600-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-800-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/anton-400-normal-a6f395.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-700-normal-567244.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:8123/assets/avatar-portrait.jpg",
+            "srcset": "",
+            "alt": "Illustrated ZetaAI avatar: a character with long red hair and goggles.",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:8123/assets/avatar-duo.jpg",
+            "srcset": "",
+            "alt": "Two illustrated characters talking in the street, showing the interactive avatar feature.",
+            "width": 452,
+            "height": 300
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots/clone-390.png",
+      "signals": {
+        "href": "http://127.0.0.1:8123/",
+        "title": "ZetaAI — the offline-first AI companion",
+        "lang": "en",
+        "bodyTextChars": 1977,
+        "scrollHeight": 4924,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "Offline AI Companion"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Offline AI Companion"
+          },
+          {
+            "tag": "h2",
+            "text": "ZetaAI on every device"
+          },
+          {
+            "tag": "h2",
+            "text": "Built to live on your device"
+          },
+          {
+            "tag": "h3",
+            "text": "Runs offline"
+          },
+          {
+            "tag": "h3",
+            "text": "Interactive avatar"
+          },
+          {
+            "tag": "h3",
+            "text": "Private by default"
+          },
+          {
+            "tag": "h3",
+            "text": "Every platform"
+          },
+          {
+            "tag": "h2",
+            "text": "Three steps, zero setup"
+          },
+          {
+            "tag": "h3",
+            "text": "Install it"
+          },
+          {
+            "tag": "h3",
+            "text": "Meet your avatar"
+          },
+          {
+            "tag": "h3",
+            "text": "Stay offline"
+          },
+          {
+            "tag": "h2",
+            "text": "Get ZetaAI"
+          }
+        ],
+        "metaDescription": "ZetaAI is an offline-first AI assistant with an interactive avatar. Chat, voice and your companion run entirely on your own device. No cloud, no accounts.",
+        "counts": {
+          "links": 19,
+          "images": 2,
+          "video": 0,
+          "canvas": 0,
+          "sections": 18,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 19,
+          "scripts": 0,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [],
+        "stylesheets": [
+          "http://127.0.0.1:8123/assets/fonts/fonts.css"
+        ],
+        "sections": [
+          {
+            "tag": "main",
+            "id": "main",
+            "className": "",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI Offline AI Companion ★ Official release ★ On-device AI assistant ★ ZetaAI v1.0 ★ Start Chat Create avatar ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. N",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 4118
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "",
+            "className": "hero",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI Offline AI Companion ★ Official release ★ On-device AI assistant ★ ZetaAI v1.0 ★ Start Chat Create avatar ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. N",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 375,
+              "height": 1333
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "header",
+            "id": "",
+            "className": "plate-head",
+            "text": "ZetaAI Guide FAQ Docs Discord GitHub Get ZetaAI",
+            "rect": {
+              "x": 29,
+              "y": 26,
+              "width": 317,
+              "height": 146
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgb(10, 10, 10)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "nav",
+            "text": "Guide FAQ Docs Discord GitHub",
+            "rect": {
+              "x": 45,
+              "y": 97,
+              "width": 285,
+              "height": 60
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "app-card",
+            "text": "ZetaAI on every device Chat, voice and your avatar run entirely on your own machine. No cloud, no account, no waiting on a server — on macOS, Windows, Linux, iOS and Android. Download",
+            "rect": {
+              "x": 47,
+              "y": 1023,
+              "width": 282,
+              "height": 260
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "features",
+            "className": "section",
+            "text": "Why ZetaAI Built to live on your device ZetaAI does the work locally. Nothing is sent away, nothing waits on a connection, and your companion keeps its personality between sessions. Runs offline Chat, voice and avatar all run locally. Pull ",
+            "rect": {
+              "x": 0,
+              "y": 1387,
+              "width": 375,
+              "height": 1277
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Runs offline Chat, voice and avatar all run locally. Pull the network cable and ZetaAI keeps working.",
+            "rect": {
+              "x": 48,
+              "y": 1721,
+              "width": 280,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Interactive avatar An animated companion that reacts, emotes and talks with you while you work.",
+            "rect": {
+              "x": 48,
+              "y": 1944,
+              "width": 280,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Private by default No cloud sync, no accounts, no telemetry. Conversations never leave the machine.",
+            "rect": {
+              "x": 48,
+              "y": 2167,
+              "width": 280,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "feature",
+            "text": "Every platform One companion across macOS, Windows, Linux, iOS and Android.",
+            "rect": {
+              "x": 48,
+              "y": 2389,
+              "width": 280,
+              "height": 207
+            },
+            "style": {
+              "display": "block",
+              "position": "relative",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "docs",
+            "className": "section",
+            "text": "Getting started Three steps, zero setup 01 Install it One download for your platform. Models ship with the app, so there is nothing else to fetch. 02 Meet your avatar Pick a look, tune the personality, and give your companion a voice you li",
+            "rect": {
+              "x": 0,
+              "y": 2664,
+              "width": 375,
+              "height": 741
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "01 Install it One download for your platform. Models ship with the app, so there is nothing else to fetch.",
+            "rect": {
+              "x": 48,
+              "y": 2824,
+              "width": 280,
+              "height": 168
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "02 Meet your avatar Pick a look, tune the personality, and give your companion a voice you like.",
+            "rect": {
+              "x": 48,
+              "y": 3020,
+              "width": 280,
+              "height": 144
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "article",
+            "id": "",
+            "className": "step",
+            "text": "03 Stay offline Talk, sketch ideas and get help all day. Your data stays on your device.",
+            "rect": {
+              "x": 48,
+              "y": 3192,
+              "width": 280,
+              "height": 144
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "section",
+            "id": "download",
+            "className": "section",
+            "text": "Get ZetaAI Free to download, offline by design, and yours for as long as you keep it on your machine. Download ZetaAI Read the docs No account · No subscription · Runs fully offline Size ≈ 1.2 GB, models included Requires 8 GB RAM · no inte",
+            "rect": {
+              "x": 0,
+              "y": 3405,
+              "width": 375,
+              "height": 713
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "footer",
+            "id": "community",
+            "className": "site-foot",
+            "text": "ZetaAI An offline-first AI assistant with an interactive avatar. Private, local and always available. Product Guide FAQ Docs Download Community Discord GitHub Changelog",
+            "rect": {
+              "x": 20,
+              "y": 4118,
+              "width": 336,
+              "height": 699
+            },
+            "style": {
+              "display": "grid",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Product Guide FAQ Docs Download",
+            "rect": {
+              "x": 39,
+              "y": 4317,
+              "width": 297,
+              "height": 243
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          },
+          {
+            "tag": "nav",
+            "id": "",
+            "className": "",
+            "text": "Community Discord GitHub Changelog",
+            "rect": {
+              "x": 39,
+              "y": 4592,
+              "width": 297,
+              "height": 186
+            },
+            "style": {
+              "display": "block",
+              "position": "static",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(10, 10, 10)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "fontSize": "16px"
+            }
+          }
+        ],
+        "cssVariables": [
+          [
+            "--bg",
+            "#C1C0BC"
+          ],
+          [
+            "--surface",
+            "#E6E4D5"
+          ],
+          [
+            "--fg",
+            "#0A0A0A"
+          ],
+          [
+            "--muted",
+            "#6B6960"
+          ],
+          [
+            "--border",
+            "#CFCDBE"
+          ],
+          [
+            "--accent",
+            "#FAFE5F"
+          ],
+          [
+            "--paper",
+            "#FFFFFF"
+          ],
+          [
+            "--display",
+            "'Anton', 'Arial Narrow', 'Haettenschweiler', system-ui, sans-serif"
+          ],
+          [
+            "--body",
+            "'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          ],
+          [
+            "--mono",
+            "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+          ],
+          [
+            "--r-plate",
+            "2rem"
+          ],
+          [
+            "--r-inner",
+            "1.35rem"
+          ],
+          [
+            "--r-card",
+            "1.1rem"
+          ],
+          [
+            "--pad-x",
+            "clamp(1rem, 5vw, 3.75rem)"
+          ]
+        ],
+        "rootVariables": [
+          [
+            "--bg",
+            "#C1C0BC"
+          ],
+          [
+            "--surface",
+            "#E6E4D5"
+          ],
+          [
+            "--fg",
+            "#0A0A0A"
+          ],
+          [
+            "--muted",
+            "#6B6960"
+          ],
+          [
+            "--border",
+            "#CFCDBE"
+          ],
+          [
+            "--accent",
+            "#FAFE5F"
+          ],
+          [
+            "--paper",
+            "#FFFFFF"
+          ],
+          [
+            "--display",
+            "'Anton', 'Arial Narrow', 'Haettenschweiler', system-ui, sans-serif"
+          ],
+          [
+            "--body",
+            "'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          ],
+          [
+            "--mono",
+            "'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace"
+          ],
+          [
+            "--r-plate",
+            "2rem"
+          ],
+          [
+            "--r-inner",
+            "1.35rem"
+          ],
+          [
+            "--r-card",
+            "1.1rem"
+          ],
+          [
+            "--pad-x",
+            "clamp(1rem, 5vw, 3.75rem)"
+          ]
+        ],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(193, 192, 188)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "header": {
+            "backgroundColor": "rgb(10, 10, 10)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "nav": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "main": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgb(10, 10, 10)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "footer": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(10, 10, 10)",
+            "borderColor": "rgba(10, 10, 10, 0.14)",
+            "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+            "backgroundImage": ""
+          },
+          "buttons": [
+            {
+              "text": "Download ZetaAI",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(10, 10, 10)",
+              "borderColor": "rgb(255, 255, 255)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "backgroundImage": ""
+            },
+            {
+              "text": "Read the docs",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(230, 228, 213)",
+              "borderColor": "rgba(230, 228, 213, 0.4)",
+              "fontFamily": "Inter, system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+              "backgroundImage": ""
+            }
+          ]
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Anton",
+          "Anton",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter",
+          "Inter"
+        ],
+        "fontFaces": [
+          {
+            "family": "Anton",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "anton-400-normal-cfa139.woff2"
+            ],
+            "cssText": "@font-face { font-family: Anton; font-style: normal; font-weight: 400; font-display: swap; src: url(\"anton-400-normal-cfa139.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Anton",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "anton-400-normal-a6f395.woff2"
+            ],
+            "cssText": "@font-face { font-family: Anton; font-style: normal; font-weight: 400; font-display: swap; src: url(\"anton-400-normal-a6f395.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "inter-400-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"inter-400-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "400",
+            "style": "normal",
+            "srcUrls": [
+              "inter-400-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 400; font-display: swap; src: url(\"inter-400-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "inter-500-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"inter-500-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "500",
+            "style": "normal",
+            "srcUrls": [
+              "inter-500-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 500; font-display: swap; src: url(\"inter-500-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "inter-600-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"inter-600-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "600",
+            "style": "normal",
+            "srcUrls": [
+              "inter-600-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url(\"inter-600-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "inter-700-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(\"inter-700-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "700",
+            "style": "normal",
+            "srcUrls": [
+              "inter-700-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 700; font-display: swap; src: url(\"inter-700-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "800",
+            "style": "normal",
+            "srcUrls": [
+              "inter-800-normal-395290.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 800; font-display: swap; src: url(\"inter-800-normal-395290.woff2\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          },
+          {
+            "family": "Inter",
+            "weight": "800",
+            "style": "normal",
+            "srcUrls": [
+              "inter-800-normal-567244.woff2"
+            ],
+            "cssText": "@font-face { font-family: Inter; font-style: normal; font-weight: 800; font-display: swap; src: url(\"inter-800-normal-567244.woff2\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+            "sheetHref": "http://127.0.0.1:8123/assets/fonts/fonts.css"
+          }
+        ],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:8123/assets/avatar-portrait.jpg",
+            "http://127.0.0.1:8123/assets/avatar-duo.jpg"
+          ],
+          "fonts": [
+            "http://127.0.0.1:8123/assets/fonts/inter-400-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-600-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-800-normal-567244.woff2",
+            "http://127.0.0.1:8123/assets/fonts/anton-400-normal-a6f395.woff2",
+            "http://127.0.0.1:8123/assets/fonts/inter-700-normal-567244.woff2"
+          ],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "http://127.0.0.1:8123/assets/avatar-portrait.jpg",
+            "srcset": "",
+            "alt": "Illustrated ZetaAI avatar: a character with long red hair and goggles.",
+            "width": 188,
+            "height": 338
+          },
+          {
+            "src": "http://127.0.0.1:8123/assets/avatar-duo.jpg",
+            "srcset": "",
+            "alt": "Two illustrated characters talking in the street, showing the interactive avatar feature.",
+            "width": 452,
+            "height": 300
+          }
+        ],
+        "canvases": []
+      }
+    }
+  ]
+}
