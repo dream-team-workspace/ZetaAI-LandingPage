@@ -1,6 +1,6 @@
 name: CI/CD
 
-# Lint on pull requests, deploy to https://zetaai.dream-team.works on
+# Lint on pull requests, deploy to https://zeta.dream-team.works on
 # every push to master.
 #
 # How deployment works:
@@ -28,7 +28,7 @@ permissions:
 env:
   DEPLOY_HOST: 139.99.88.23
   DEPLOY_USER: deploy
-  DEPLOY_PATH: /var/www/zetaai.dream-team.works
+  DEPLOY_PATH: /var/www/zeta.dream-team.works
 
 jobs:
   lint:
@@ -95,7 +95,7 @@ jobs:
         run: |
           ok=0
           for i in $(seq 1 6); do
-            if curl -fsS --max-time 15 "https://zetaai.dream-team.works/" | grep -q "ZetaAI"; then
+            if curl -fsS --max-time 15 "https://zeta.dream-team.works/" | grep -q "ZetaAI"; then
               ok=1
               break
             fi
