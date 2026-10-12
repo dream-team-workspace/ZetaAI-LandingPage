@@ -19,8 +19,9 @@ The ZetaAI landing page is deployed by GitHub Actions
   on port 80 — port 80 stays exclusively for the pre-existing sites. The
   server's Cloudflare Tunnel (`ovh-server`) routes `zeta.dream-team.works` to
   `http://localhost:8081`.
-- Only `index.html` and `assets/` are deployed; repo docs, `RECON/` and the
-  other markdown files stay out of the web root.
+- Only `index.html`, `robots.txt`, `sitemap.xml`, `llms.txt` and `assets/` are
+  deployed; repo docs, `RECON/` and the other markdown files stay out of the
+  web root.
 
 ## Required repository secrets
 
@@ -46,6 +47,7 @@ Same result as CI, run from the repo root:
 ```bash
 mkdir -p _site
 cp index.html _site/index.html
+cp robots.txt sitemap.xml llms.txt _site/
 cp -r assets _site/assets
 
 rsync -az --delete --chmod=D755,F644 \

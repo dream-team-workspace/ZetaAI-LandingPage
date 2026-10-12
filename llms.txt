@@ -1,0 +1,15 @@
+# ZetaAI
+
+> ZetaAI is an offline-first AI companion: chat, voice and an interactive avatar run entirely on your own device — no cloud, no account.
+
+Key facts:
+
+- Platforms: macOS, Windows, Linux, iOS and Android
+- Price: free to download for personal use; no account, no subscription
+- Runs fully offline: models ship with the app (≈ 1.2 GB; 8 GB RAM recommended)
+- Features: interactive animated avatar, voice chat, private local conversations
+- Privacy: nothing is sent away and conversations never leave the machine
+
+## Links
+
+- [Homepage](https://zeta.dream-team.works/): product overview, screenshots and download
