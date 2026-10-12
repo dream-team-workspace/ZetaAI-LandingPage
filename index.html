@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -186,6 +186,7 @@ h1,h2,h3{ font-family:var(--display); font-weight:400; text-transform:uppercase;
   padding:14% 0;
 }
 .rail svg{ width:44%; height:auto; fill:var(--fg); }
+.rail .rail-star{ margin-top:.35em; }
 .rail .rail-arrow{ margin-top:auto; stroke:var(--fg); fill:none; stroke-width:2.6; stroke-linecap:round; stroke-linejoin:round; }
 
 /* duo image */
@@ -297,6 +298,8 @@ h1,h2,h3{ font-family:var(--display); font-weight:400; text-transform:uppercase;
    Generic section shell
    ============================================================ */
 .section{ padding:clamp(2.5rem,6vw,5rem) var(--pad-x); }
+/* #docs and #download butt directly against the preceding section */
+#docs, #download{ padding-top:0; }
 .plate-cream{
   background:var(--surface);
   border-radius:var(--r-plate);
@@ -558,7 +561,7 @@ h1,h2,h3{ font-family:var(--display); font-weight:400; text-transform:uppercase;
                  alt="Illustrated ZetaAI avatar: a character with long red hair and goggles.">
             <div class="rail" aria-hidden="true">
               <svg viewBox="-10 -10 20 20"><path d="M0,-10 C1.6,-2.4 2.4,-1.6 10,0 C2.4,1.6 1.6,2.4 0,10 C-1.6,2.4 -2.4,1.6 -10,0 C-2.4,-1.6 -1.6,-2.4 0,-10 Z"/></svg>
-              <svg viewBox="-10 -10 20 20" style="margin-top:.35em"><path d="M0,-10 C1.6,-2.4 2.4,-1.6 10,0 C2.4,1.6 1.6,2.4 0,10 C-1.6,2.4 -2.4,1.6 -10,0 C-2.4,-1.6 -1.6,-2.4 0,-10 Z"/></svg>
+              <svg class="rail-star" viewBox="-10 -10 20 20"><path d="M0,-10 C1.6,-2.4 2.4,-1.6 10,0 C2.4,1.6 1.6,2.4 0,10 C-1.6,2.4 -2.4,1.6 -10,0 C-2.4,-1.6 -1.6,-2.4 0,-10 Z"/></svg>
               <svg class="rail-arrow" viewBox="0 0 24 24"><path d="M12 20V5M6 11l6-6 6 6"/></svg>
             </div>
           </div>
@@ -658,7 +661,7 @@ h1,h2,h3{ font-family:var(--display); font-weight:400; text-transform:uppercase;
   </section>
 
   <!-- ============================ HOW IT WORKS ============================ -->
-  <section class="section" id="docs" aria-labelledby="steps-title" style="padding-top:0">
+  <section class="section" id="docs" aria-labelledby="steps-title">
     <div class="plate-cream">
       <p class="eyebrow"><svg viewBox="-10 -10 20 20" aria-hidden="true"><path d="M0,-10 C1.6,-2.4 2.4,-1.6 10,0 C2.4,1.6 1.6,2.4 0,10 C-1.6,2.4 -2.4,1.6 -10,0 C-2.4,-1.6 -1.6,-2.4 0,-10 Z"/></svg> Getting started</p>
       <h2 class="section-title" id="steps-title" data-od-id="steps-title">Three steps, zero setup</h2>
@@ -687,7 +690,7 @@ h1,h2,h3{ font-family:var(--display); font-weight:400; text-transform:uppercase;
   </section>
 
   <!-- ============================ DOWNLOAD ============================ -->
-  <section class="section" id="download" aria-labelledby="dl-title" style="padding-top:0">
+  <section class="section" id="download" aria-labelledby="dl-title">
     <div class="dl-band" data-od-id="download-band">
       <div>
         <h2 id="dl-title" data-od-id="download-headline">Get ZetaAI</h2>
